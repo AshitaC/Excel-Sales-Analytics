@@ -3,7 +3,9 @@
 
 - **Project objective:** 
 
-    **1.** Create a _[customer performance report](https://github.com/AshitaC/Excel-Sales-Analytics/blob/main/Customer%20Sales%20Perfromance%20Report.pdf)_ 
+    **1.** Create a _[customer performance report](https://github.com/AshitaC/Excel-Sales-Analytics/blob/main/Customer%20Sales%20Perfromance%20Report.pdf)_
+
+Built a sales performance report analyzing market trends, customer behavior, and targets vs. actuals for AtliQ Hardwares. Key features include ETL with Power Query, data modeling in Power Pivot, DAX calculations for metrics, and interactive dashboards.
 
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/AshitaC/Excel-Sales-Analytics/blob/main/Market%20Perfromance%20vs%20Target%20Report.pdf)_
 
@@ -12,6 +14,12 @@
 - **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
 
 - **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+
+- **Skills:** Power Query (data transformation), Power Pivot (relationships and modeling), DAX (custom measures), PivotTables/Charts (visualizations).
+
+- **Key Insights**: Identified high-performing regions and opportunities for resource allocation.
+  
+<img width="808" height="851" alt="image" src="https://github.com/user-attachments/assets/8d2466c9-be2b-453b-bd04-89a3d9d9e059" />
 
 
 ## Finance Report :
@@ -27,6 +35,8 @@
 - **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods, Foundation for budgeting and forecasting.
 
 - **Role of reports:** Align financial planning with strategic goals. Instill confidence in the organization's financial outlook.
+  
+<img width="807" height="458" alt="image" src="https://github.com/user-attachments/assets/5b9ca89a-901f-4232-ac55-6a502c2c4261" />
 
 
 ## Technical & Soft Skills:
