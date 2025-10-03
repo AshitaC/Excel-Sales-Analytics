@@ -1,6 +1,8 @@
 ## Sales Report :
 
-Built a sales performance report analyzing market trends, customer behavior, and targets vs. actuals for AtliQ Hardwares. Key features include ETL with Power Query, data modeling in Power Pivot, DAX calculations for metrics, and interactive dashboards.
+Built a sales performance report analyzing market trends, customer behavior, and targets vs. actuals for AtliQ Hardwares. 
+
+Key features include ETL with Power Query, data modeling in Power Pivot, DAX calculations for metrics, and interactive dashboards.
 
 - **Project objective:** 
 
